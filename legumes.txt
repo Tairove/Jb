@@ -1,1 +1,2 @@
 legume 3
+legumes 3
