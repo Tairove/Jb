@@ -1,6 +1,1 @@
-Pomme
-Banane
-papaye
-kiwi
-Cerises
-pêche
+fruits goyave
