@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 fruit random
+||||||| b0661f2
+Pomme
+Banane
+papaye
+kiwi
+Cerises
+pêche
+=======
+fruits goyave
+>>>>>>> 3843eda23faf8a4d2720202071e4c0aa68da1b4c
